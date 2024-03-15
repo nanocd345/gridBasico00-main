@@ -1,0 +1,20 @@
+:root{
+    --color-principal: #ececec;
+    --color-secundary: #fff;
+    --color-shadows:3px 3px 5px rgba(0, 0, 0, 0.122);
+    --color-primary: #87d8f9;
+    --color-secondary: #d7f065;
+    --color-tertiary: #aef7ae;
+    
+    --color-bg-body: #ececec;
+    --color-bg-card: #fff;
+    --color-titles: #000;
+    --color-text: #8a8a8a;
+    --color-subtitles: #000;
+
+    --color-bg-user: linear-gradient(94deg, rgba(135, 216, 249, 1) 0%, rgba(174, 247, 174, 1) 39%, rgba(255, 254, 145, 1) 73%);
+    --letras-p:#000;
+    --radius: 20px;
+    --shadow: box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    --degrada-fon: linear-gradient(94deg, rgba(135, 216, 249, 1) 0%, rgba(174, 247, 174, 1) 39%, rgba(255, 254, 145, 1) 73%);
+}
